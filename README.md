@@ -1,5 +1,6 @@
 # placar-ru_results
 Resultados das votações da Rinha de Universidades Públicas do Brasil.
+_Os dados das disputas serão adicionados conforme forem tratados._
 
 
 ## Histórico de disputas
